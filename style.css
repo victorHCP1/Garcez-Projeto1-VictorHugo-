@@ -1,0 +1,30 @@
+.p1{color: blueviolet;}
+.p1 {border-color: blue; border-width: 6px; border-style: double;}
+.p1 {margin-left: 15%;}
+.p1 {padding-left: 0%;}
+.p1 {margin-right: 25%;}
+.p1 {text-align: center;}
+
+.p2{color: black;}
+.p2 {border-color: yellowgreen; border-width: 6px; border-style: double;}
+.p2 {margin-left: 65%;}
+.p2 {padding-left: 0%;}
+.p2 {margin-right: 5%;}
+.p2 {border-left: 20%;}
+.p2 {padding-right: 3%;}
+
+.p3 {color: brown;}
+.p3 {border-color: red; border-width: 6px; border-style: double;}
+.p3 {margin-left: 05%;}
+.p3 {padding-left: 0%;}
+.p3 {margin-right: 65%;}
+
+.p4 {color: green;}
+.p4 {border-color: greenyellow; border-width: 6px; border-style: double;}
+.p4 {margin-left: 55%;}
+.p4 {padding-left: 3%;}
+.p4 {margin-right: 15%;}
+
+
+
+
